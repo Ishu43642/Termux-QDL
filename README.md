@@ -38,9 +38,9 @@ chmod +x qdl
 ## Note :-
 after Run this tool useg Details show in screen set your files location acording to useg details.
 
-like this - ```./qdl --debug --storage emmc --include "flash file folder location" "prog_firhouse_xx.mbn file location" "rawprogram.xml file location" "patch.xml file location"```
+like this - ```./qdl --debug --storage emmc --include [flash file folder location] [prog_firhouse_xx.mbn file location] [rawprogram.xml file location] [patch.xml file location]```
 
-Remove this ```"``` from command line.
+Dont Add this ```[ ]``` on command line.
 
 after Set commands Connect Terget Device to 9008 edl mode using Otg & Data cable.
 
