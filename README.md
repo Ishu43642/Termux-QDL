@@ -18,4 +18,20 @@ pkg install git
 ```bash
 pkg install libxml2
 ```
+```bash
+git clone https://github.com/Ishu43642/Termux-QDL.git
+```
+```bash
+cd Termux-QDL
+```
+```bash
+chmod +x qdl
+```
 
+# Run Tool
+```bash
+./qdl
+```
+
+# Note :-
+after Run this tool useg Details show in screen set your files location acording to useg details.
