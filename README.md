@@ -1,9 +1,9 @@
-# Termux-QDL
+## Termux-QDL
 Flash Qualcomm CPU Based Mobile Phones Using Termux Without PC
 (This Tool Run Only in arm64 architecture Termux Supported mobile)
 Tool Credit:- Gautam Great
 
-# installation :- 
+## installation :- 
 
 Install [termux](https://f-droid.org/repo/com.termux_118.apk) & [Termux-api](https://f-droid.org/repo/com.termux.api_51.apk) apk
 ```bash
@@ -28,17 +28,18 @@ cd Termux-QDL
 chmod +x qdl
 ```
 
-# Run Tool
+## Run Tool
 ```bash
 ./qdl
 ```
 
-# Note :-
+
+## Note :-
 after Run this tool useg Details show in screen set your files location acording to useg details.
 
 after Set commands Connect Terget Device to 9008 edl mode using Otg & Data cable.
 
-# Video Guide ( Hindi)
+## Video Guide ( Hindi)
 
 How To Use Termux-QDL For Flashing Mobile
 https://youtu.be/qHwFG5pU7gk
