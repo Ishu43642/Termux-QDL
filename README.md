@@ -35,3 +35,6 @@ chmod +x qdl
 
 # Note :-
 after Run this tool useg Details show in screen set your files location acording to useg details.
+
+# Video Guide ( Hindi)
+https://youtu.be/qHwFG5pU7gk
