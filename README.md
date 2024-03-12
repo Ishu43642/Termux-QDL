@@ -5,31 +5,31 @@ Tool Credit:- Gautam Great
 
 ## installation :- 
 
-Install [termux](https://f-droid.org/repo/com.termux_118.apk) & [Termux-api](https://f-droid.org/repo/com.termux.api_51.apk) apk
-```bash
+```Install``` [termux](https://f-droid.org/repo/com.termux_118.apk) & [Termux-api](https://f-droid.org/repo/com.termux.api_51.apk) apk
+```console
 yes | pkg update && upgrade
 ```
-```bash
+```console
 pkg install termux-api
 ```
-```bash
+```console
 pkg install git
 ```
-```bash
+```console
 pkg install libxml2
 ```
-```bash
+```console
 git clone https://github.com/Ishu43642/Termux-QDL.git
 ```
-```bash
+```console
 cd Termux-QDL
 ```
-```bash
+```console
 chmod +x qdl
 ```
 
 ## Run Tool
-```bash
+```console
 ./qdl
 ```
 
@@ -41,8 +41,8 @@ after Set commands Connect Terget Device to 9008 edl mode using Otg & Data cable
 
 ## Video Guide ( Hindi)
 
-How To Use Termux-QDL For Flashing Mobile
+```How To Use Termux-QDL For Flashing Mobile```
 https://youtu.be/qHwFG5pU7gk
 
-How To Bypass Mi account & Frp using Termux-QDL
+```How To Bypass Mi account & Frp using Termux-QDL```
 https://youtu.be/SV8wl06BTeg
