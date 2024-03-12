@@ -37,4 +37,9 @@ chmod +x qdl
 after Run this tool useg Details show in screen set your files location acording to useg details.
 
 # Video Guide ( Hindi)
+
+How To Use Termux-QDL For Flashing Mobile
 https://youtu.be/qHwFG5pU7gk
+
+How To Bypass Mi account & Frp using Termux-QDL
+https://youtu.be/SV8wl06BTeg
