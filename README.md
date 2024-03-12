@@ -36,6 +36,8 @@ chmod +x qdl
 # Note :-
 after Run this tool useg Details show in screen set your files location acording to useg details.
 
+after Set commands Connect Terget Device to 9008 edl mode using Otg & Data cable.
+
 # Video Guide ( Hindi)
 
 How To Use Termux-QDL For Flashing Mobile
