@@ -3,6 +3,7 @@ Flash Qualcomm CPU Based Mobile Phones Using Termux ```Without PC```
 (This Tool Run Only in ```arm64``` architecture Termux Supported mobile)
 
 Tool Credit:- [Gautam Great](https://github.com/GautamGreat)
+
 [QDL-Tree](https://github.com/bmx666/qdl/tree/sparse)
 
 ## installation :- 
