@@ -1,10 +1,6 @@
 ## Termux-QDL
 Flash Qualcomm CPU Based Mobile Phones Using Termux ```Without PC```
-(This Tool Run Only in ```arm64``` architecture Termux Supported mobile)
-
-Tool Credit:- [Gautam Great](https://github.com/GautamGreat)
-
-[QDL-Tree](https://github.com/bmx666/qdl/tree/sparse)
+(This Tool Run Only in ```arm64``` architecture Termux Supported mobile) Root Required 
 
 ## installation :- 
 
@@ -20,6 +16,9 @@ pkg install git
 ```
 ```console
 pkg install libxml2
+```
+```console
+pkg install sudo
 ```
 ```console
 git clone https://github.com/Ishu43642/Termux-QDL.git
@@ -40,13 +39,13 @@ chmod +x qdl
 ## Note :-
 after Run this tool useg Details show in screen set your files location acording to useg details.
 
-like this - ```./qdl --debug --storage emmc --include [flash file folder location] [prog_firhouse_xx.mbn file location] [rawprogram.xml file location] [patch.xml file location]```
+like this - ```sudo ./qdl --debug --storage emmc --include [flash file folder location] [prog_firhouse_xx.mbn file location] [rawprogram.xml file location] [patch.xml file location]```
 
 Dont Add this ```[ ]``` on command line.
 
 after Set commands Connect Terget Device to 9008 edl mode using Otg & Data cable.
 
-## Video Guide ( Hindi)
+## Video Guide ( Hindi) Don't forget to add sudo before commond ( because tool is updated did not work without root)
 
 ```How To Use Termux-QDL For Flashing Mobile```
 https://youtu.be/qHwFG5pU7gk
